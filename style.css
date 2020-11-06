@@ -110,9 +110,22 @@ a:hover{
   color: #f9813a;
 }
 
-.idea{
-  margin-left:auto;
-  margin-right: 500px;
-  margin-top: auto;
-  margin-bottom: auto;
+.frm{
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.name{
+  border: 1px solid #f9813a;
+  color: #f9813a;
+  background-color:black ;
+  font-family: 'Josefin Slab', serif;;
+  font-size:100%
+}
+
+.send{
+  color:#f9813a;
+  border: 1px solid #f9813a;
+  background: none
 }
